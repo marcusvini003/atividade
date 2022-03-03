@@ -1,0 +1,13 @@
+//total = 4
+//total
+*var media = 4;
+var media = 3 
+//total =
+if (media >= 7 ){
+    console.log("aprovado");
+    else{ 
+        console.log("reprovado");
+      
+    
+
+ 
