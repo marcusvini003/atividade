@@ -1,0 +1,5 @@
+const quantidadedealunos =14
+for let index=0; <=quantidadedealunos;index++)
+{
+    if(index==0){
+        con 
